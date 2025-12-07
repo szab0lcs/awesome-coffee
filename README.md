@@ -2,7 +2,7 @@
 
 Awesome coffee stores and online shops in Romania and around the EU. Ordered A-Z.
 
-Last updated: 2025-12-07
+*Last updated: 2025-12-07*
 
 ## Romania
 
